@@ -18,10 +18,11 @@ Ce repository sert à :
 
 ![ProjetRadio1](images/images.png)
 
+---
+
 ![ProjetRadio1](images/2.png)
 
 ---
-
 ## ▶ Comment utiliser les programmes
 
 1. Ouvrir **MakeCode Micro:bit**
