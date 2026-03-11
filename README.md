@@ -16,7 +16,7 @@ Ce repository sert à :
 
 ## 🖼 Exemple de Micro:bit
 
-![ProjetRadio1](images/images.png)
+![ProjetRadio1](images/image.png)
 
 ---
 
