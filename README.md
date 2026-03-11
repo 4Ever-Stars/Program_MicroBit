@@ -21,4 +21,4 @@ Ce repository sert à :
 
 ## 👨‍💻 Auteur
 
-Projet réalisé par **Adyxx**
+Projet réalisé par **4EverStars**
