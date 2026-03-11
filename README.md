@@ -1,8 +1,6 @@
 # Program_MicroBit
 
-![Microbit](https://upload.wikimedia.org/wikipedia/commons/6/6c/BBC_Micro_Bit_v2.jpg)
-
-Repository contenant les différents programmes que j’ai réalisés avec la **BBC Micro:bit** pendant mon année scolaire.
+Repository contenant les différents programmes que j’ai réalisés avec une **Micro:bit** pendant mon année scolaire.
 
 ---
 
